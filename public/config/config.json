@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x955EF01c92B7409f606849d747DD5f7dcB2f00b9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x955ef01c92b7409f606849d747dd5f7dcb2f00b9",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RKB",
+    "ID": 4
+  },
+  "NFT_NAME": "BeastyBoar1",
+  "SYMBOL": "BB1",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/beastyboar1",
+  "SHOW_BACKGROUND": true
+}
